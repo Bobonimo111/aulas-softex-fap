@@ -13,4 +13,10 @@ Esse repositorio foi criado com intuito de alocar todas as atividade realizadas 
 - Desenvolvimento de projetos
   - Estruturação de um projeto
 
+# Check list de conteudos adicionados
+- [x] Diagramas de modelagens de dados
+- [x] Básico em TypeScript
+- [ ] Códigos SQL
+- [ ] Atividade de POO com TypeScript
+
 *Este readme pode ser alterado a qualquer momento*
